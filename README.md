@@ -7,7 +7,7 @@
 
 ### [캡스톤 디자인 3주차 과제]
 
-<img width="" height="" src="./png/3hw-1.PNG"></img>
+<img width="350" height="" src="./png/3hw-1.PNG"></img>
 
 <img width="350" height="570" src="./png/3hw-2.PNG"></img>
 <img width="350" height="570" src="./png/3hw-3.PNG"></img>
