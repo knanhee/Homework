@@ -48,6 +48,28 @@
 
 ### [캡스톤 디자인 9주차 과제]
 
-         
+1. 메인 화면
+
+<img width="350" height="570" src="./png/9hw-1.PNG"></img>
+
+2. 이미지 바꾸기 버튼 클릭
+
+<img width="350" height="570" src="./png/9hw-2.PNG"></img>
+
+3. image1 width 버튼 클릭
+
+<img width="350" height="570" src="./png/9hw-3.PNG"></img>
+
+4. image1 height 버튼 클릭
+
+<img width="350" height="570" src="./png/9hw-4.PNG"></img>
+
+5. image2 width 버튼 클릭
+
+<img width="350" height="570" src="./png/9hw-5.PNG"></img>
+
+6. image2 height 버튼 클릭
+
+<img width="350" height="570" src="./png/9hw-6.PNG"></img>
   
          
