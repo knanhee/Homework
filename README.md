@@ -77,9 +77,20 @@
 
 1. xml 파일 코드 작성
 
+<img width="" height="" src="./png/10hw-1.PNG"></img>
+
+<img width="" height="" src="./png/10hw-2.PNG"></img>
+
+
 2. java 파일 코드 작성
 
+<img width="" height="" src="./png/10hw-3.PNG"></img>
+
+<img width="" height="" src="./png/10hw-4.PNG"></img>
+
 3. 에뮬레이터 실행 화면
+
+<img width="350" height="570" src="./png/10hw-5.PNG"></img>
 
 
 
