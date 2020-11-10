@@ -92,8 +92,39 @@
 
 <img width="350" height="570" src="./png/10hw-5.PNG"></img>
 
+(+ 실행화면 추가)
+
+<img width="350" height="570" src="./png/10hw-6.PNG"></img>
+
 ### [캡스톤 디자인 11주차 과제]
 
+<B>1. acitivity_main.xml 소스 코드</B>
+
+<B>2. MainActivity.java 소스 코드</B>
+
+<B>3. MeunActivity.java 소스 코드</B>
+
+<B>4. AndroidManifest.xml 소스 코드</B>
+
+<B>5. 에뮬레이터 실행 화면</B>
+
+1) 메인 화면
+
+<img width="350" height="585" src="./png/11hw-1.PNG"></img>
+
+2) 돌아가기 버튼 클릭
+
+<img width="350" height="585" src="./png/11hw-2.PNG"></img>
+
+3) Toast 메시지 1
+
+<img width="350" height="585" src="./png/11hw-3.PNG"></img>
+
+4) Toast 메시지 2
+
+<img width="350" height="585" src="./png/11hw-4.PNG"></img>
 
 
-         
+
+
+        
