@@ -100,11 +100,19 @@
 
 <B>1. acitivity_main.xml 소스 코드</B>
 
+<img width="" height="" src="./png/11hw-5.PNG"></img>
+
 <B>2. MainActivity.java 소스 코드</B>
+
+<img width="" height="" src="./png/11hw-6.PNG"></img>
 
 <B>3. MeunActivity.java 소스 코드</B>
 
+<img width="" height="" src="./png/11hw-7.PNG"></img>
+
 <B>4. AndroidManifest.xml 소스 코드</B>
+
+<img width="" height="" src="./png/11hw-8.PNG"></img>
 
 <B>5. 에뮬레이터 실행 화면</B>
 
