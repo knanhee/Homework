@@ -82,11 +82,11 @@
 <img width="" height="" src="./png/10hw-2.PNG"></img>
 
 
-2. java 파일 코드 작성
+2. java 파일 코드 작성(+ 2020.11.16 2번째 사진 catch코드 수정 변경)
 
 <img width="" height="" src="./png/10hw-3.PNG"></img>
 
-<img width="" height="" src="./png/10hw-4.PNG"></img>
+
 
 3. 에뮬레이터 실행 화면
 
