@@ -135,6 +135,8 @@
 
 ### [캡스톤 디자인 12주차 과제]
 
+<img width="350" height="570" src="./png/12hw-1.PNG"></img>
+
 
 
         
